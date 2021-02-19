@@ -1,1 +1,3 @@
-I'm just playing around with arduino. Lots of mistakes will be made. Lots of fun will be had. 
+This is a fire led flicker effect. 
+(be sure to use the PWM pins)
+<img src="resources/Screen Shot 2021-02-19 at 4.05.46 PM.png"/>
